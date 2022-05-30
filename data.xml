@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<projects numberFound="68">
+    <hasNext>true</hasNext>
+    <nextProjectId>17965</nextProjectId>
+    <project>
+        <active>false</active>
+        <activities>Legacy at Normandy is a permanent educational center in Normandy France where WWII veterans can share their stories &amp; educate the next generation about duty, honor &amp; sacrifice to cultivate the next generation into discerning and appreciative citizens</activities>
+        <additionalDocumentation>https://www.globalgiving.org/pfil/6750/projdoc.pdf</additionalDocumentation>
+        <approvedDate>2010-11-12T14:24:10-05:00</approvedDate>
+        <contactAddress>100 Fillmore Place</contactAddress>
+        <contactAddress2>Fifth Floor</contactAddress2>
+        <contactCity>Denver</contactCity>
+        <contactCountry>United States</contactCountry>
+        <contactName>Alicia Harms</contactName>
+        <contactPostal>80228</contactPostal>
+        <contactState>CO</contactState>
+        <contactUrl>http://www.tggf.us</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <donationOptions>
+            <donationOption>
+                <amount>10</amount>
+                <description>will help WWII veterans travel at no expense to Normandy</description>
+            </donationOption>
+            <donationOption>
+                <amount>50</amount>
+                <description>will help WWII veterans travel at no expense to Normandy</description>
+            </donationOption>
+            <donationOption>
+                <amount>100</amount>
+                <description>will help WWII veterans travel at no expense to Normandy</description>
+            </donationOption>
+            <donationOption>
+                <amount>500</amount>
+                <description>will help WWII veterans travel at no expense to Normandy</description>
+            </donationOption>
+            <donationOption>
+                <amount>1000</amount>
+                <description>will pay for half of the cost to send a WWII veteran to Normandy at no expense</description>
+            </donationOption>
+            <donationOption>
+                <amount>2000</amount>
+                <description>will pay the entire cost to send a WWII veteran to Normandy at no expense</description>
+            </donationOption>
+            <donationOption>
+                <amount>6000</amount>
+                <description>will pay the entire cost to send three WWII veterans to Normandy at no expense</description>
+            </donationOption>
+            <donationOption>
+                <amount>10000</amount>
+                <description>will pay the entire cost to send five WWII veterans to Normandy at no expense</description>
+            </donationOption>
+        </donationOptions>
+        <funding>70.00</funding>
+        <goal>100000.00</goal>
+        <id>6750</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/6750/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/6750/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/6750/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/6750/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/6750/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/6750/pict_original.jpg</url>
+            </imagelink>
+            <title>Send WWII Vets Back to Normandy With Students</title>
+        </image>
+        <imageGallerySize>9</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/6750/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <latitude>49.20404052734375</latitude>
+        <longTermImpact>Legacy at Normandy will give WWII veterans a chance to pass on their legacy and gain closure from their emotional scars. Consequently, it will create more conscientious future leaders through the unique educational platform at the facility. </longTermImpact>
+        <longitude>-0.5948169827461243</longitude>
+        <modifiedDate>2022-05-05T11:32:24-04:00</modifiedDate>
+        <need>Every day, more than 1,000 WWII veterans pass on. Many of these veterans have never shared their war experience nor have received closure from the traumatic effects of WWII. Their legacy is dying with them. We want to capture the stories of these brave men &amp; women before it is too late. We have traveled with veterans back to various battle sites in Europe and Asia, &amp; all of the veterans have felt a sense of peace &amp; closure from these trips. We want to continue this before their time disappears.</need>
+        <numberOfDonations>4</numberOfDonations>
+        <numberOfReports>0</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/the-legacy-at-normandy/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/the-legacy-at-normandy/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>99930.00</remaining>
+        <status>funded</status>
+        <summary>Send 40 WWII Vets with college students to an educational center and battlefields near the beaches of Normandy France to preserve their legacy of honor and sacrifice before they pass on.</summary>
+        <themeName>Education</themeName>
+        <themes>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <title>Send WWII Vets Back to Normandy With Students</title>
+        <type>project</type>
+    </project>
+    <project>
+        <active>true</active>
+        <activities>HERA's supports women entrepreneurs in Armenia, Georgia, Moldova, and Ukraine to scale up their micro-enterprises to train and employ young women at risk of dangerous migration, trafficking and exploitation.</activities>
+        <approvedDate>2011-11-20T19:00:00-05:00</approvedDate>
+        <contactAddress>9, rue du Pave Noir</contactAddress>
+        <contactCity>Sancerre</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>Lynellyn Long</contactName>
+        <contactPostal>18300</contactPostal>
+        <contactState></contactState>
+        <contactUrl>https://hera.international/</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <dateOfMostRecentReport>2022-02-28T13:40:10-05:00</dateOfMostRecentReport>
+        <donationOptions>
+            <donationOption>
+                <amount>10</amount>
+                <description>Supports local travel for one grant assessment</description>
+            </donationOption>
+            <donationOption>
+                <amount>25</amount>
+                <description>Pays for locally constructed equipment for preschool venture</description>
+            </donationOption>
+            <donationOption>
+                <amount>100</amount>
+                <description>Allows a young woman to participate in a day long entrepreneurship training</description>
+            </donationOption>
+            <donationOption>
+                <amount>250</amount>
+                <description>Pays for three-months of digital marketing support</description>
+            </donationOption>
+            <donationOption>
+                <amount>350</amount>
+                <description>Supports an in country mentor for one year</description>
+            </donationOption>
+            <donationOption>
+                <amount>400</amount>
+                <description>Creates one full-time job for a young woman at risk of trafficking</description>
+            </donationOption>
+            <donationOption>
+                <amount>780</amount>
+                <description>Provides one grant to a woman entrepreneur</description>
+            </donationOption>
+            <donationOption>
+                <amount>15000</amount>
+                <description>Supports one country grant program for a year</description>
+            </donationOption>
+        </donationOptions>
+        <funding>170830.90</funding>
+        <goal>200000.00</goal>
+        <id>8992</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/8992/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/8992/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/8992/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/8992/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/8992/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/8992/pict_original.jpg</url>
+            </imagelink>
+            <title>Prevent Trafficking in Women thru Entrepreneurship</title>
+        </image>
+        <imageGallerySize>9</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/8992/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <latitude>51.49935531616211</latitude>
+        <longTermImpact>To date HERA has awarded 400 grants to women's ventures in Central and Eastern Europe generating some 700 new jobs for women at risk of trafficking. HERA has trained 1058 people in nine countries on entrepreneurship, business, and/or mentoring.  95% of the grantees supported by HERA are operating a year or more later and 85% have grown and/or provided new employment.</longTermImpact>
+        <longitude>-0.174796000123024</longitude>
+        <modifiedDate>2022-05-05T11:32:32-04:00</modifiedDate>
+        <need>Each year young women are exploited and trafficked across international borders and within their own countries. Risk factors include unemployment, poverty, conflict, and the responsibilities of providing for children, the elderly and extended families. Many want to build better lives . Through force, deception, and coercion, traffickers, smugglers, and others exploit young women's economic vulnerabilities and ambitions to exploit, torture, and enslave.</need>
+        <numberOfDonations>1383</numberOfDonations>
+        <numberOfReports>37</numberOfReports>
+        <organization>
+            <activeProjects>1</activeProjects>
+            <addressLine1>8 avenue erlanger</addressLine1>
+            <addressLine2></addressLine2>
+            <city>Paris</city>
+            <countries>
+                <country>
+                    <iso3166CountryCode>AM</iso3166CountryCode>
+                    <name>Armenia</name>
+                </country>
+                <country>
+                    <iso3166CountryCode>GE</iso3166CountryCode>
+                    <name>Georgia</name>
+                </country>
+                <country>
+                    <iso3166CountryCode>MD</iso3166CountryCode>
+                    <name>Moldova, Republic of</name>
+                </country>
+                <country>
+                    <iso3166CountryCode>UA</iso3166CountryCode>
+                    <name>Ukraine</name>
+                </country>
+            </countries>
+            <country>France</country>
+            <id>9592</id>
+            <iso3166CountryCode>FR</iso3166CountryCode>
+            <logoUrl>https://www.globalgiving.org/pfil/organ/9592/orglogo.jpg</logoUrl>
+            <mission>Her Economic Rights and Autonomy's (HERA) overall aims are to: (1) prevent dangerous migration, trafficking and violence against young women; (2) help women-led micro-enterprises grow their ventures; and (3) support women entrepreneurs in providing employment to young women at risk of trafficking, dangerous migration and exploitation.</mission>
+            <name>HERA (Her Economic Rights and Autonomy)</name>
+            <postal>75016</postal>
+            <state>Paris</state>
+            <themes>
+                <theme>
+                    <id>ecdev</id>
+                    <name>Economic Growth</name>
+                </theme>
+                <theme>
+                    <id>edu</id>
+                    <name>Education</name>
+                </theme>
+                <theme>
+                    <id>gender</id>
+                    <name>Gender Equality</name>
+                </theme>
+                <theme>
+                    <id>human</id>
+                    <name>Ending Human Trafficking</name>
+                </theme>
+                <theme>
+                    <id>hunger</id>
+                    <name>Food Security</name>
+                </theme>
+                <theme>
+                    <id>refugee</id>
+                    <name>Refugee Rights</name>
+                </theme>
+            </themes>
+            <totalProjects>1</totalProjects>
+            <url>http://www.enterprisingspirit.org</url>
+        </organization>
+        <progressReportLink>https://www.globalgiving.org/projects/entrepreneurs-against-trafficking/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/entrepreneurs-against-trafficking/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>29169.10</remaining>
+        <status>active</status>
+        <summary>HERA promotes women's entrepreneurship and employment with grants, training, and mentoring so as to prevent and counter all forms of slavery, violence and exploitation.To date, HERA has trained 1058 women survivors, women at risk of trafficking, and women and men mentors in nine countries. HERA has awarded 400 grants to women-owned ventures to create new employment for some 609 women in regions with high rates of dangerous migration and trafficking in Central/Eastern Europe.</summary>
+        <themeName>Ending Human Trafficking</themeName>
+        <themes>
+            <theme>
+                <id>human</id>
+                <name>Ending Human Trafficking</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Growth</name>
+            </theme>
+            <theme>
+                <id>gender</id>
+                <name>Gender Equality</name>
+            </theme>
+            <theme>
+                <id>rights</id>
+                <name>Justice and Human Rights</name>
+            </theme>
+        </themes>
+        <title>Prevent Trafficking in Women thru Entrepreneurship</title>
+        <type>project</type>
+        <videos>
+            <video>
+                <url></url>
+            </video>
+        </videos>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>Working with High Tech Post Graduate students, we plan to elaborate the prototype to make it ready for the industry.
+Once done, the prototype will be loaned to family who has teenager or adult seated, and who can not share the feeling of running with others, during race or training session.
+Some parent with disabled child need sport to make their brain breathe, to escape from daily stress. Running or walking with your disabled child in a light adapted stroller will allow to do so "together"</activities>
+        <additionalDocumentation>https://www.globalgiving.org/pfil/9305/projdoc.pdf</additionalDocumentation>
+        <approvedDate>2011-11-23T00:00:00-05:00</approvedDate>
+        <contactAddress>19 rue Charles Sauvage</contactAddress>
+        <contactCity>Jacou</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>Olivier Dufour</contactName>
+        <contactPostal>34830</contactPostal>
+        <contactState></contactState>
+        <contactUrl>http://asso-caravane.pagesperso-orange.fr/</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <dateOfMostRecentReport>2012-06-12T17:38:32-04:00</dateOfMostRecentReport>
+        <donationOptions>
+            <donationOption>
+                <amount>10</amount>
+                <description>Will cover a set of tools</description>
+            </donationOption>
+            <donationOption>
+                <amount>25</amount>
+                <description>Will pay a wheel (can be purchased in cycle stores)</description>
+            </donationOption>
+            <donationOption>
+                <amount>30</amount>
+                <description>Will be used for the braking, directed and handlebars systems (need to be fabricate)</description>
+            </donationOption>
+            <donationOption>
+                <amount>350</amount>
+                <description>Covers a light racing car seat and safety belts (can be purchased in a store)</description>
+            </donationOption>
+            <donationOption>
+                <amount>700</amount>
+                <description>Will pay the frame (design and fabrication in the work shop)</description>
+            </donationOption>
+            <donationOption>
+                <amount>1000</amount>
+                <description>Will cover 1/3 of the total carbon and aluminium materials needed (can be found in specialised store)</description>
+            </donationOption>
+        </donationOptions>
+        <funding>250.00</funding>
+        <goal>4350.00</goal>
+        <id>9305</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/9305/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/9305/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/9305/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/9305/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/9305/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/9305/pict_original.jpg</url>
+            </imagelink>
+            <title>Build of a Stroller for 8 Handicapped in France</title>
+        </image>
+        <imageGallerySize>5</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/9305/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <latitude>43.65571594238281</latitude>
+        <longTermImpact>2 companies, 1 specialised in adapted materials for leisure and 1 specialised in Carbon/Alu materials have been contacted and have shown some interests in following the project. Unfortunately, they have no money to grant a team to build the prototype (this kind of market is too small)
+But they will sell us the material at cost, and they let the student use the tools of the work shop.
+The long term idea is to make a limited production, to reduce the cost and why not, to sell them on internet.</longTermImpact>
+        <longitude>3.9120500087738037</longitude>
+        <modifiedDate>2022-05-05T11:32:34-04:00</modifiedDate>
+        <need>It was a problem, we have now a solution ...
+The lake of adapted equipment to run with a disabled child or adult who likes doing sport with his family, but who could not because of his injury.
+You can find the item for a baby, twins, but no more than 50 lbs. The stroller does simply not exist on the market, we have to make a protoype.</need>
+        <numberOfDonations>7</numberOfDonations>
+        <numberOfReports>4</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/cash-carbon-adapted-stroller-for-handicapped/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/cash-carbon-adapted-stroller-for-handicapped/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>4100.00</remaining>
+        <status>retired</status>
+        <summary>To get disabled enjoy walking and running with their parents or friends, our project is to participate with 4 post graduated high technology students in the design and production of a 3 wheels carbon aluminium prototype stroller, which can interest adapted materials manufacturers, once we clearly achieve ours in terms of cost and feasibility.
+This project is based on the fact that adapted leisure for disabled adult or children is expensive, can not be found in stores, and we have to create it</summary>
+        <themeName>Child Protection</themeName>
+        <themes>
+            <theme>
+                <id>children</id>
+                <name>Child Protection</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Physical Health</name>
+            </theme>
+            <theme>
+                <id>sport</id>
+                <name>Sport</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Physical Health</name>
+            </theme>
+            <theme>
+                <id>sport</id>
+                <name>Sport</name>
+            </theme>
+            <theme>
+                <id>disability</id>
+                <name>Disability Rights</name>
+            </theme>
+            <theme>
+                <id>mentalhealth</id>
+                <name>Mental Health</name>
+            </theme>
+            <theme>
+                <id>reproductive</id>
+                <name>Reproductive Health</name>
+            </theme>
+        </themes>
+        <title>Build of a Stroller for 8 Handicapped in France</title>
+        <type>project</type>
+        <videos>
+            <video>
+                <url></url>
+            </video>
+        </videos>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>Agathe's family doesn't have the means necessary to contact a very famous equine handler, and they don't have the money to visit him even if they did. So, our organization, Reves, reached out to this famous equine handler and scheduled this wonderful event.</activities>
+        <approvedDate>2011-11-29T12:59:35-05:00</approvedDate>
+        <contactAddress>333 allee Antoine Millan</contactAddress>
+        <contactAddress2>BP 312</contactAddress2>
+        <contactCity>TREVOUX Cedex</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>Olivier BERERD</contactName>
+        <contactPostal>01603</contactPostal>
+        <contactState></contactState>
+        <contactUrl>http://www.reves.fr</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <dateOfMostRecentReport>2012-11-20T10:35:11-05:00</dateOfMostRecentReport>
+        <donationOptions>
+            <donationOption>
+                <amount>25</amount>
+                <description>will help Agathe's family get a meal on her trip</description>
+            </donationOption>
+            <donationOption>
+                <amount>200</amount>
+                <description>will contact a equine handler for Agathe</description>
+            </donationOption>
+            <donationOption>
+                <amount>250</amount>
+                <description>will book a hotel room for her stay</description>
+            </donationOption>
+            <donationOption>
+                <amount>300</amount>
+                <description>will buy train tickets so she can travel to meet Frederick</description>
+            </donationOption>
+        </donationOptions>
+        <funding>3112.66</funding>
+        <goal>1997.00</goal>
+        <id>9560</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/9560/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/9560/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/9560/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/9560/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/9560/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/9560/pict_original.jpg</url>
+            </imagelink>
+            <title>Meet Frederick Pignon (Equine Handler)</title>
+        </image>
+        <imageGallerySize>4</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/9560/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <latitude>45.76972579956055</latitude>
+        <longTermImpact>For Agathe, seeing that her dream can come true will help her face her medical problems with more energy, and with more positive thinking.</longTermImpact>
+        <longitude>4.806521892547607</longitude>
+        <modifiedDate>2022-05-05T11:32:35-04:00</modifiedDate>
+        <need>Why is it important to realize a dream? Child with serious illnesses don't always have the opportunity to fulfill their dreams, and this project can help make it a reality. When a child is able to live out his or her wish, it's magic: the dream comes true. It shows that something incredible can happen in the face of difficult times.</need>
+        <numberOfDonations>25</numberOfDonations>
+        <numberOfReports>4</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/meet-frederick-pignon-equine-handler/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/meet-frederick-pignon-equine-handler/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>0.00</remaining>
+        <status>funded</status>
+        <summary>Agathe is a 17 year old girl. She lives with a very serious illness. And she has a dream: meet a equine handler like Frederick Pignon. Our organization, Reves, will organize the meeting with this equine handler. And then, Agathe's dream will become a reality.</summary>
+        <themeName>Wildlife Conservation</themeName>
+        <themes>
+            <theme>
+                <id>wildlife</id>
+                <name>Wildlife Conservation</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Physical Health</name>
+            </theme>
+        </themes>
+        <title>Meet Frederick Pignon (Equine Handler)</title>
+        <type>project</type>
+        <videos>
+            <video>
+                <url></url>
+            </video>
+        </videos>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>"Personalized medicine" is part of a clear process: how to give the right drug, to the right patient, at the right time. It is an approach that relies on a strong principle: every cancer is biologically and genetically unique. Our five major objectives are: Identify the genes of each tumor - Save time - Better characterize rare tumors - modeling approach of personalized treatments - Better analyzing drug resistance -
+Our goal: to cure more patients, more quickly with a personalized treatment.</activities>
+        <approvedDate>2012-07-05T12:00:09-04:00</approvedDate>
+        <contactAddress>Institut Gustave Roussy</contactAddress>
+        <contactAddress2>114 rue Edouard Vaillant</contactAddress2>
+        <contactCity>Villejuif</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>Emmanuelle LE ROY</contactName>
+        <contactPostal>94800</contactPostal>
+        <contactState>FRANCE</contactState>
+        <contactTitle>Partnership Responsible</contactTitle>
+        <contactUrl>http://www.gustaveroussy.fr</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <dateOfMostRecentReport>2016-02-23T13:36:55-05:00</dateOfMostRecentReport>
+        <donationOptions>
+            <donationOption>
+                <amount>60</amount>
+                <description>will offer a collation for children hospitalised</description>
+            </donationOption>
+            <donationOption>
+                <amount>80</amount>
+                <description>a DNA chip (useful for persalised medecine)</description>
+            </donationOption>
+            <donationOption>
+                <amount>150</amount>
+                <description>can provide a musical sessions for children hospitalised</description>
+            </donationOption>
+            <donationOption>
+                <amount>200</amount>
+                <description>can provide relaxion sessions for 10 patients</description>
+            </donationOption>
+            <donationOption>
+                <amount>1000</amount>
+                <description>can provide the research of known molecular abnormalities for 1 patient</description>
+            </donationOption>
+            <donationOption>
+                <amount>4000</amount>
+                <description>can provide a global molecular portrait for 1 patient</description>
+            </donationOption>
+        </donationOptions>
+        <funding>43612.69</funding>
+        <goal>99000.00</goal>
+        <id>9884</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/9884/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/9884/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/9884/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/9884/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/9884/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/9884/pict_original.jpg</url>
+            </imagelink>
+            <title>Personalized Medicine: We Look to the Future</title>
+        </image>
+        <imageGallerySize>1</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/9884/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <latitude>48.79365921020508</latitude>
+        <longTermImpact>Thanks to our innovative research program on personalized medicine, our medical goal is to "transform" cancer into a chronic disease. When a disease becomes chronic there is a parallel need for the patient to be monitored by our hospital. On the strength of this observation, we have launched
+institutional brainstorming about accompanying the patient (adults and children) and the personalization of services rendered.</longTermImpact>
+        <longitude>2.348818063735962</longitude>
+        <modifiedDate>2022-05-05T11:32:36-04:00</modifiedDate>
+        <need>1 man in 2, 1 woman in 3 will be touched by a cancer during their life, and even today 1 patient in 2 dies from his/her cancer. Now, the availability of innovative molecules combined with advances in molecular biology, of bioinformatics and imaging possible to envisage an entirely new approach that
+opens great hopes for many patients: "personalised medicine" cancer. The generosity of donors is our first power of action to accelerate research on treatments customized for the benefit of patients.</need>
+        <numberOfDonations>412</numberOfDonations>
+        <numberOfReports>11</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/personalised-medicine-we-look-to-the-future/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/personalised-medicine-we-look-to-the-future/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>55387.31</remaining>
+        <status>retired</status>
+        <summary>1 patient out of 2 still dies of cancer nowadays. With the right financial and human means, it is now technically possible to significantly reduce this rate.
+Institut Gustave Roussy has initiated a program called "Cancer Revolution 2013+" in order to cure more people, more quickly thanks to personalized medicine.
+Our approach is clear: finding how to give the right treatment to the right patient, at the right dosage and at the right time, while preserving their quality of live.</summary>
+        <themeName>Physical Health</themeName>
+        <themes>
+            <theme>
+                <id>health</id>
+                <name>Physical Health</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <title>Personalized Medicine: We Look to the Future</title>
+        <type>project</type>
+        <videos>
+            <video>
+                <url>http://www.youtube.com/v/OZOtk7YVsSA</url>
+            </video>
+        </videos>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>We help youth achieve their projects, by providing 6 to 12 months of support, coaching, training. Projects must be of general interest, proposed by individuals or teams of 3 max, with local/national or international impact.</activities>
+        <additionalDocumentation>https://www.globalgiving.org/pfil/11700/projdoc.pdf</additionalDocumentation>
+        <approvedDate>2012-09-18T11:50:25-04:00</approvedDate>
+        <contactAddress>16 place des Abesses</contactAddress>
+        <contactCity>PARIS</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>Manuel POMAR</contactName>
+        <contactPostal>75018</contactPostal>
+        <contactUrl>http://www.reve-realise.fr/</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <donationOptions>
+            <donationOption>
+                <amount>25</amount>
+                <description>finance one day of civic service training for 1 youth</description>
+            </donationOption>
+            <donationOption>
+                <amount>50</amount>
+                <description>finance 2 days of civic service training for 1 youth</description>
+            </donationOption>
+            <donationOption>
+                <amount>250</amount>
+                <description>finance support and coaching of 1 youth for 2 weeks</description>
+            </donationOption>
+            <donationOption>
+                <amount>1000</amount>
+                <description>provide a complete working space and IT environment for 1 youth for 6 month</description>
+            </donationOption>
+            <donationOption>
+                <amount>5000</amount>
+                <description>finance support and coaching of 1 youth for 6 month</description>
+            </donationOption>
+        </donationOptions>
+        <funding>350.00</funding>
+        <goal>25000.00</goal>
+        <id>11700</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/11700/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/11700/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/11700/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/11700/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/11700/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/11700/pict_original.jpg</url>
+            </imagelink>
+            <title>Reve et realise / help youth realize their dream</title>
+        </image>
+        <imageGallerySize>1</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/11700/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <latitude>47.453086853027344</latitude>
+        <longTermImpact>At least two positive long-term effects: 1.our project is to turn youth per year into innovative social entrepreneurs and 2. to help youth building long term projects for their communities.</longTermImpact>
+        <longitude>-0.5070300102233887</longitude>
+        <modifiedDate>2022-05-05T11:32:43-04:00</modifiedDate>
+        <need>Every year, thousands of youth dream about a better world, want to put their ideas into actions to help other, but do not know how to start or how to turn their dreams into reality.</need>
+        <numberOfDonations>6</numberOfDonations>
+        <numberOfReports>0</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/reve-et-realise/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/reve-et-realise/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>24650.00</remaining>
+        <status>retired</status>
+        <summary>"Reve et Realise" (dream and realize) helps enthusiastic 16-25 year old youth achieve their dreamed community project by giving them the unique opportunity to spend 6 to 12 months working on it, while being accompanied, coached, trained...</summary>
+        <themeName>Education</themeName>
+        <themes>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <title>Reve et realise / help youth realize their dream</title>
+        <type>project</type>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>"If you do not go to the sport, the sport will come to you". Athleticism is easy to try and can be really entertaining (warm up activities, cooperative games, sprint, long jump, pole vault...). Goal of the project is to use a mobile mini stadium, operated by 5 coaches and trainers and organize one day sport events in underserved areas on a weekly basis</activities>
+        <approvedDate>2012-09-19T15:04:13-04:00</approvedDate>
+        <contactAddress>16 place des Abesses</contactAddress>
+        <contactCity>PARIS</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>Manuel POMAR</contactName>
+        <contactPostal>75018</contactPostal>
+        <contactUrl>http://www.reve-realise.fr/</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <funding>50.00</funding>
+        <goal>5000.00</goal>
+        <id>11706</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/11706/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/11706/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/11706/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/11706/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/11706/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/11706/pict_original.jpg</url>
+            </imagelink>
+            <title>Bring sport to underserved areas</title>
+        </image>
+        <imageGallerySize>2</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/11706/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <longTermImpact>At least two positive long-term effects: 1.our project is to turn youth per year into innovative social entrepreneurs and 2. to help youth building long term projects for their communities.</longTermImpact>
+        <modifiedDate>2022-05-05T11:32:43-04:00</modifiedDate>
+        <need>Children often lack of parent' supervision, face cultural, social and entertainment divide in underserved suburbs; some even face obesity. Those hurdles can sometimes lead to violence.</need>
+        <numberOfDonations>2</numberOfDonations>
+        <numberOfReports>0</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/microprojects/street-athle/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/microprojects/street-athle/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>4950.00</remaining>
+        <status>retired</status>
+        <summary>In underserved areas, children often lack of new entertainment, can face violence... By organizing 1 day athleticism events, the project plans to initiate 6-17 year old children to new activities and transmit the core values of sport (team spirit, inclusion, excellence...) in a fun way</summary>
+        <themeName>Education</themeName>
+        <themes>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <title>Bring sport to underserved areas</title>
+        <type>microproject</type>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>With the provision of FREE computer training in hardware and software applications, sessions of group discussions, questions and answers, there would be renforced learning among the beneficiaries, social ties would also be created. Having been empowered with relevant knowledge and skills, they are able to take up job placements, this would as result reduce computer illiteracy, unemployment and poverty, with increased productivity and improved standard of living.</activities>
+        <additionalDocumentation>https://www.globalgiving.org/pfil/15726/projdoc.doc</additionalDocumentation>
+        <approvedDate>2013-11-25T00:00:00-05:00</approvedDate>
+        <contactAddress>28 bis, avenue du Marechal Leclerc</contactAddress>
+        <contactCity>Bonneuil-sur-Marne</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>NAOMI BOHAIN</contactName>
+        <contactPostal>94380</contactPostal>
+        <contactState>Ile-de-France</contactState>
+        <contactUrl>http://www.femmesdignes.org</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <donationOptions>
+            <donationOption>
+                <amount>25</amount>
+                <description>Can buy a mouse</description>
+            </donationOption>
+            <donationOption>
+                <amount>50</amount>
+                <description>Can provide internet access per month</description>
+            </donationOption>
+            <donationOption>
+                <amount>100</amount>
+                <description>Can buy a projecting board</description>
+            </donationOption>
+            <donationOption>
+                <amount>500</amount>
+                <description>Can provide a computer</description>
+            </donationOption>
+            <donationOption>
+                <amount>1200</amount>
+                <description>Can buy a projector</description>
+            </donationOption>
+        </donationOptions>
+        <funding>425.00</funding>
+        <goal>35000.00</goal>
+        <id>15726</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/15726/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/15726/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/15726/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/15726/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/15726/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/15726/pict_original.jpg</url>
+            </imagelink>
+            <title>Empower 300 Computer Illiterates in Ile de France</title>
+        </image>
+        <imageGallerySize>9</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/15726/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <longTermImpact>The principal objective of the project is to enable the beneficiaries acquire knowledge and skills in computer based information systems, being an essential element for successful social and Professional intergration in the society. This would offer them the opportunity to become computer literate, develop thier career in information technology systems. Having adequate computer knowledge and skills, they would able to get a job, become productive, able to contribute towards national development.</longTermImpact>
+        <modifiedDate>2022-05-05T11:32:58-04:00</modifiedDate>
+        <need>Disadvantaged youth and adults from the priority zone in Ile-de-France region of France do not have basic training in computer based information systems. Majority of them do not have computers in thier homes, neither do they have the funds to pay for their computer training, being stricken with unemployment and poverty, they are strongly affected by computer illiteracy. Femmes Dignes is committed to address this problem through her FREE computer training and personal development program</need>
+        <numberOfDonations>5</numberOfDonations>
+        <numberOfReports>0</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/support-youth-and-adults-computer-literacy-training/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/support-youth-and-adults-computer-literacy-training/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>34575.00</remaining>
+        <status>retired</status>
+        <summary>This project equips a computer training center in priority zone of Ile de France, providing FREE computer training in hardware and software applications to 300 computer illitrate youth and adults. Computer proficiency being indispensable for most job seekers, this would enable them acquire relevant knowledge and skills that would help them get a job, become productive and self-reliant, this would as a result enable them to contribute towards national development.</summary>
+        <themeName>Education</themeName>
+        <themes>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <title>Empower 300 Computer Illiterates in Ile de France</title>
+        <type>project</type>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>With the provision of FREE computer training in hardware and software applications, sessions of group discussions, questions and answers, there would be renforced learning among the beneficiaries, social ties would also be created. Having been empowered with relevant knowledge and skills, they are able to take up job placements, this would as result reduce computer illiteracy, unemployment and poverty, with increased productivity and improved standard of living.</activities>
+        <additionalDocumentation>https://www.globalgiving.org/pfil/16181/projdoc.doc</additionalDocumentation>
+        <approvedDate>2014-03-01T00:00:00-05:00</approvedDate>
+        <contactAddress>28 bis, avenue du Marechal Leclerc</contactAddress>
+        <contactCity>Bonneuil-sur-Marne</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>NAOMI BOHAIN</contactName>
+        <contactPostal>94380</contactPostal>
+        <contactState>Ile-de-France</contactState>
+        <contactUrl>http://www.femmesdignes.org</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <donationOptions>
+            <donationOption>
+                <amount>25</amount>
+                <description>Can buy a mouse</description>
+            </donationOption>
+            <donationOption>
+                <amount>50</amount>
+                <description>Can provide internet access per month</description>
+            </donationOption>
+            <donationOption>
+                <amount>100</amount>
+                <description>Can buy a projecting board</description>
+            </donationOption>
+            <donationOption>
+                <amount>500</amount>
+                <description>Can provide a computer</description>
+            </donationOption>
+            <donationOption>
+                <amount>1200</amount>
+                <description>Can buy a projector</description>
+            </donationOption>
+        </donationOptions>
+        <funding>20.00</funding>
+        <goal>35000.00</goal>
+        <id>16181</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/16181/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/16181/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/16181/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/16181/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/16181/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/16181/pict_original.jpg</url>
+            </imagelink>
+            <title>Empower 50 Computer Illiterates in Val de Marne</title>
+        </image>
+        <imageGallerySize>9</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/16181/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <longTermImpact>The principal objective of the project is to enable the beneficiaries acquire knowledge and skills in computer based information systems, being an essential element for successful social and Professional intergration in the society. This would offer them the opportunity to become computer literate, develop thier career in information technology systems. Having adequate computer knowledge and skills, they would able to get a job, become productive, able to contribute towards national development.</longTermImpact>
+        <modifiedDate>2022-05-05T11:33:00-04:00</modifiedDate>
+        <need>Disadvantaged youth and adults from the priority zone of Val de Marne department in France, do not have basic training in computer based information systems. Majority of them do not have computers in thier homes, neither do they have the funds to pay for their computer training, being stricken with unemployment and poverty, they are strongly affected by computer illiteracy. Femmes Dignes is committed to address this problem through her FREE computer training and personal development program</need>
+        <numberOfDonations>1</numberOfDonations>
+        <numberOfReports>0</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/empower-50-computer-illiterates-in-val-de-marne/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/empower-50-computer-illiterates-in-val-de-marne/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>34980.00</remaining>
+        <status>retired</status>
+        <summary>This project equips a computer training center in priority zone of Val de Marne, providing FREE computer training in hardware and software applications to 50 disadvantaged computer illiterate youth and adults. Computer proficiency being indispensable for most job seekers, this would enable them acquire relevant knowledge and skills that would help them get a job, become productive and self-reliant, this would as a result enable them to contribute towards national development.</summary>
+        <themeName>Education</themeName>
+        <themes>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <title>Empower 50 Computer Illiterates in Val de Marne</title>
+        <type>project</type>
+    </project>
+    <project>
+        <active>false</active>
+        <activities>With the provision of FREE computer training in hardware and software applications, sessions of group discussions, questions and answers, there would be renforced learning among the beneficiaries, social ties would also be created. Having been empowered with relevant knowledge and skills, they are able to take up job placements, this would as result reduce computer illiteracy, unemployment and poverty, with increased productivity and improved standard of living.</activities>
+        <additionalDocumentation>https://www.globalgiving.org/pfil/17248/projdoc.doc</additionalDocumentation>
+        <approvedDate>2014-06-03T17:42:33-04:00</approvedDate>
+        <contactAddress>28 bis, avenue du Marechal Leclerc</contactAddress>
+        <contactCity>Bonneuil-sur-Marne</contactCity>
+        <contactCountry>France</contactCountry>
+        <contactName>NAOMI BOHAIN</contactName>
+        <contactPostal>94380</contactPostal>
+        <contactState>Ile-de-France</contactState>
+        <contactUrl>http://www.femmesdignes.org</contactUrl>
+        <countries>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+        </countries>
+        <country>France</country>
+        <donationOptions>
+            <donationOption>
+                <amount>25</amount>
+                <description>Can buy a mouse</description>
+            </donationOption>
+            <donationOption>
+                <amount>50</amount>
+                <description>Can provide internet access per month</description>
+            </donationOption>
+            <donationOption>
+                <amount>100</amount>
+                <description>Can buy a projecting board</description>
+            </donationOption>
+            <donationOption>
+                <amount>500</amount>
+                <description>Can provide a computer</description>
+            </donationOption>
+            <donationOption>
+                <amount>1200</amount>
+                <description>Can buy a projector</description>
+            </donationOption>
+        </donationOptions>
+        <funding>100.00</funding>
+        <goal>35000.00</goal>
+        <id>17248</id>
+        <image id="0">
+            <imagelink size="small">
+                <url>https://www.globalgiving.org/pfil/17248/pict_grid1.jpg</url>
+            </imagelink>
+            <imagelink size="thumbnail">
+                <url>https://www.globalgiving.org/pfil/17248/pict_thumbnail.jpg</url>
+            </imagelink>
+            <imagelink size="medium">
+                <url>https://www.globalgiving.org/pfil/17248/pict_med.jpg</url>
+            </imagelink>
+            <imagelink size="large">
+                <url>https://www.globalgiving.org/pfil/17248/pict_grid7.jpg</url>
+            </imagelink>
+            <imagelink size="extraLarge">
+                <url>https://www.globalgiving.org/pfil/17248/pict_large.jpg</url>
+            </imagelink>
+            <imagelink size="original">
+                <url>https://www.globalgiving.org/pfil/17248/pict_original.jpg</url>
+            </imagelink>
+            <title>Empower 50 Computer Illiterates in Val de Marne</title>
+        </image>
+        <imageGallerySize>9</imageGallerySize>
+        <imageLink>https://www.globalgiving.org/pfil/17248/pict.jpg</imageLink>
+        <iso3166CountryCode>FR</iso3166CountryCode>
+        <longTermImpact>The principal objective of the project is to enable the beneficiaries acquire knowledge and skills in computer based information systems, being an essential element for successful social and Professional intergration in the society. This would offer them the opportunity to become computer literate, develop thier career in information technology systems. Having adequate computer knowledge and skills, they would able to get a job, become productive, able to contribute towards national development.</longTermImpact>
+        <modifiedDate>2022-05-05T11:33:04-04:00</modifiedDate>
+        <need>Disadvantaged youth and adults from the priority zone of Val de Marne department in France, do not have basic training in computer based information systems. Majority of them do not have computers in thier homes, neither do they have the funds to pay for their computer training, being stricken with unemployment and poverty, they are strongly affected by computer illiteracy. Femmes Dignes is committed to address this problem through her FREE computer training and personal development program</need>
+        <numberOfDonations>3</numberOfDonations>
+        <numberOfReports>0</numberOfReports>
+        <progressReportLink>https://www.globalgiving.org/projects/empower-50-computer-illiterates-in-val-de-marne-1/updates/</progressReportLink>
+        <projectLink>https://www.globalgiving.org/projects/empower-50-computer-illiterates-in-val-de-marne-1/</projectLink>
+        <region>Europe and Russia</region>
+        <remaining>34900.00</remaining>
+        <status>retired</status>
+        <summary>This project equips a computer training center in priority zone of Val de Marne, providing FREE computer training in hardware and software applications to 50 disadvantaged computer illiterate youth and adults. Computer proficiency being indispensable for most job seekers, this would enable them acquire relevant knowledge and skills that would help them get a job, become productive and self-reliant, this would as a result enable them to contribute towards national development.</summary>
+        <themeName>Education</themeName>
+        <themes>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <title>Empower 50 Computer Illiterates in Val de Marne</title>
+        <type>project</type>
+    </project>
+</projects>
